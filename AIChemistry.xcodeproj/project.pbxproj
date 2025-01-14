@@ -41,7 +41,6 @@
 		DE3B3E582D35173B0072FA94 /* Appearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B3D9B2D35173B0072FA94 /* Appearance.swift */; };
 		DE3B3E592D35173B0072FA94 /* PaygateViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B3E0D2D35173B0072FA94 /* PaygateViewModel.swift */; };
 		DE3B3E5A2D35173B0072FA94 /* UITapGestureRecognizer+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B3D802D35173B0072FA94 /* UITapGestureRecognizer+Extension.swift */; };
-		DE3B3E5B2D35173B0072FA94 /* BranchManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B3D692D35173B0072FA94 /* BranchManager.swift */; };
 		DE3B3E5C2D35173B0072FA94 /* PaygateProductButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B3E092D35173B0072FA94 /* PaygateProductButton.swift */; };
 		DE3B3E5D2D35173B0072FA94 /* AccountAboutCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B3DC02D35173B0072FA94 /* AccountAboutCell.swift */; };
 		DE3B3E5E2D35173B0072FA94 /* HistoryAssistantResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE3B3E1C2D35173B0072FA94 /* HistoryAssistantResult.swift */; };
@@ -170,7 +169,6 @@
 		7481799076EB2DF23385702D /* Pods_AIChemistry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AIChemistry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B998F9B1BDDD22F32A294FE /* Pods-AIChemistry.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AIChemistry.debug.xcconfig"; path = "Target Support Files/Pods-AIChemistry/Pods-AIChemistry.debug.xcconfig"; sourceTree = "<group>"; };
 		DE3B3D682D35173B0072FA94 /* AmplitudeManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AmplitudeManager.swift; sourceTree = "<group>"; };
-		DE3B3D692D35173B0072FA94 /* BranchManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchManager.swift; sourceTree = "<group>"; };
 		DE3B3D6A2D35173B0072FA94 /* FacebookManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacebookManager.swift; sourceTree = "<group>"; };
 		DE3B3D6B2D35173B0072FA94 /* FirebaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseManager.swift; sourceTree = "<group>"; };
 		DE3B3D6D2D35173B0072FA94 /* RequestReview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestReview.swift; sourceTree = "<group>"; };
@@ -361,7 +359,6 @@
 			isa = PBXGroup;
 			children = (
 				DE3B3D682D35173B0072FA94 /* AmplitudeManager.swift */,
-				DE3B3D692D35173B0072FA94 /* BranchManager.swift */,
 				DE3B3D6A2D35173B0072FA94 /* FacebookManager.swift */,
 				DE3B3D6B2D35173B0072FA94 /* FirebaseManager.swift */,
 			);
@@ -1284,7 +1281,6 @@
 				DE3B3E582D35173B0072FA94 /* Appearance.swift in Sources */,
 				DE3B3E592D35173B0072FA94 /* PaygateViewModel.swift in Sources */,
 				DE3B3E5A2D35173B0072FA94 /* UITapGestureRecognizer+Extension.swift in Sources */,
-				DE3B3E5B2D35173B0072FA94 /* BranchManager.swift in Sources */,
 				DE3B3E5C2D35173B0072FA94 /* PaygateProductButton.swift in Sources */,
 				DE3B3E5D2D35173B0072FA94 /* AccountAboutCell.swift in Sources */,
 				DE3B3E5E2D35173B0072FA94 /* HistoryAssistantResult.swift in Sources */,
